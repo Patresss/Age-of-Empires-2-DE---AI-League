@@ -1,0 +1,52 @@
+{
+  "schemaGroupSerialized" : {
+    "type" : "SchemaGroup",
+    "actionList" : [ {
+      "type" : "BrowserAction",
+      "actionBootType" : "RUN_EXISTING_SCHEMA",
+      "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - start.ab"
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "MousePointAction",
+        "actionBootType" : "MOVE_MOUSE",
+        "point" : "",
+        "image" : "Qk2aBQAAAAAAADYAAAAoAAAAFAAAABcAAAABABgAAAAAAGQFAAAAAAAAAAAAAAAAAAAAAAAA7npW73tW73tW73tW73tW73tW73tW73tW73tW73tW73tX73xY8H1Y8H5Y8X5a8oBa84Fa9IJb9INc9YVd7npW73tW73tW73tW73tW73tW73tW73tW73tW73tW73xY8H1Z8H5Z8X9a8oBa8oBa9IJc9YNc9YVd9oVe7npW73tW73tW73tW73tW73tW73tW73tX73xX8HxY8X1Z8X5a8X5a8oBa84Fb9IJc9YNd9YVd9oZe94df7npW73tW73tW73tW73tW73tW73tW73xX8H1Y8H1Y8X5a8X9a8oBa84Fb9IJc9YNd9YVd9oZe9ode+Ilg7npW73tW73tW73tW73tW73tW73xX8H1Y8H5Y8X5a8YBa8oBa84Fb9IJc9YNd9oVe9oZe94df+Ilg+Yph7npW73tW73tW73tW73tXgktId0ZGfElHfElIfUlIfUpIf0tJuWdT9YRd94Vf9oZe94df+Ilg+Yph+oti7npW73tW73tW73tW73xX731Y8H5Yf0pIGxw5Gxw5OSo+8YJc9YRd9YVd9oZe94df+Ilg+Yph+oti+41j7npW73tW73xW8HxX8H1Y8H5Y8X5Zz3BVGxw5Gxw5KyQ89YRd9YVd9oZf94df+Ilg+Yph+oti+41j+41j73tX73xX8H1Y8H1Y8X5Z8X9a8oBa4HlYGxw5Gxw5JyI79oZe9oZf+Ilg+Ylh+Yph+opi+4xj/I1j/I5k73xX731Y8H5Y8X5Z8X9a8oBa84Jb4HpZGxw5Gxw5KyQ894df+Ilg+Yph+opi+4tj+41j+41j/I5k/Y9l8HxY8H5Y8X5Z8oBa8oBa84Jb84Jb4XtaGxw5Gxw5KyQ8+Ilg+Yph+oti+4tj+41j/I5k/I5k/Y9l/ZBl8H1Z8X5Z8oBa8oBa84Jb9IJc9YRd5H1bGxw5Gxw5KyQ8+Yph+oti+4xj+41j/I5k/I9k/ZBk/ZBl/pFm8X9a8oBa84Fb84Fb9YNc9oRe9oVe9oZeGxw5Gxw5LCQ8+Yti+oxj+41j/Y9k/Y9l/ZBl/pFl/pJm/5Jm8YBa84Fb84Fb9IJc9oRe9oVe94Ze+IhgGxw5Gxw5LCQ8+41j+45j/I5j/Y9l/pBl/pFl/pJm/5Jm/5Jm84Jb9IJc9YNd9oRc94Ze94Ze+Ihg23tcGxw5Gxw5LCQ8/I5j/Y9k/ZBk/pFl/pJm/pJm/pJm/5Jm/5Jm9IJc9YRd9oVe9oZe94df+Ihg+YphvGxWGxw5Gxw5LCQ8/Y9l/Y9l/ZBl/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm9YRd9oVe9oZe94hf+IhguWpVHBw5Gxw5Gxw5Gxw5LCQ8/ZBl/ZBl/pFm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm9oVe9oZe94hf+Ihg+Yph+oti+4xj4oBeWz1FGxw5Gxw5/ZBl/pFm/pJm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm9oZf94hg+Ilg+Yth+oti+4xj+41j/I5k/Y9k2n5df09M/pFm/pJm/pJm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm94hg+Iph+Yti+oxi+4xj+41j/I5k/Y9l/ZBl/pFl/pJm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm+Yth+Yti+oxi+oxi/I5k/I5k/I9k/ZBl/pFm/pJm/pJm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm/5Jm9Ydg9Ylg9Ylg9Ypg94ti94xi94xi945i+Y5i+Y5i+Y5i+o5i+o5i+o5i+o5i+o5i+o5i+o5i+o5i+o5i54Fb6IJd6IJd6IJd6oRf6oRf6oRf64Zf7IZf7IZf7IZf7IZf7IZf7IZf7IZf7IZf7IZf7IZf7IZf7IZf",
+        "threshold" : 90.0,
+        "ignoreIfNotFound" : false
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Select.ab?civilizatiotion={{player1}}"
+      }, {
+        "type" : "MousePointAction",
+        "actionBootType" : "MOVE_MOUSE",
+        "point" : "",
+        "image" : "Qk3mBAAAAAAAADYAAAAoAAAAFAAAABQAAAABABgAAAAAALAEAAAAAAAAAAAAAAAAAAAAAAAAAADXAADXAADXAADXAADXAADXAADXAADXAADXAADXAADYAADaAADbAADdAADeAADgAADiAADkAADmAADoAADXAADXAADXAADXAADXAADXAADXAADXAADYAADYAADaAADbAADdAADeAADhAADiAADkAADlAADoAADqAADXAADXAADXAADXAADXAADXAADXAADYAADZAADaAADcAADdAADfAADhAADjAADlAADnAADoAADqAADtAADXAADXAADXAADXAADXAADXAADYAADZAADbAADcAADeAADfAADhAADjAADlAADnAADpAADrAADtAADvAADXAADXAADXAADXAADXAADYDg+GDg6HDw+DDw+DDw+EDw+FDw+GGRpGAADoAADpAADrAADtAADvAADxAADXAADXAADXAADXAADYAADZCAitGxw5Gxw5Gxw5Gxw5Gxw5Gxw5Gxw5Bwi6AADsAADuAADvAADyAAD0AADXAADXAADXAADYAADaAADbAADdCQmnGxw5Gxw5Gxw5Gxw5Gxw5Gxw5AADsAADuAADwAADyAAD0AAD2AADXAADYAADZAADaAADcAADdAADfAADgDA2WGRpFAgLbAQHjAwPZDg6REhJ3AADwAADyAAD0AAD2AAD4AADYAADZAADaAADcAADeAADfAADgAADiAADlEhNxGRpGAADrAADsAADvAADvAADyAAD1AAD1AAD4AAD6AADaAADbAADcAADeAADfAADiAADjAADlAADnAQHiGxw5GBlLAADvAADxAAD0AAD1AAD3AAD5AAD7AAD8AADbAADcAADeAADeAADiAADjAADlAADnAADqAADrCguoGxw5FhdaAADzAAD1AAD3AAD4AAD6AAD8AAD9AADdAADeAADgAADhAADkAADmAADnAADpAADsAADuAADwGxw5Gxw5AQHsAAD3AAD5AAD6AAD8AAD9AAD+AADeAADgAADiAADkAADmAADpAADpAADsAADuAADwAADyGxw5Gxw5FxdYAAD5AAD7AAD8AAD+AAD/AAD/AADgAADiAADlAADnAADpAADrAwPXDAyhAADxAADyAAD0Gxw5Gxw5Gxw5AAD7AAD8AAD+AAD/AAD/AAD/AADiAADlAADnAADpAADrAADtAgLhGxw5AgLkAAD1Dg6XGxw5Gxw5Gxw5AAD9AAD+AAD/AAD/AAD/AAD/AADlAADnAADpAADrAADtAADvAADwExRtGxw5Gxw5Gxw5Gxw5Gxw5FRZjAAD+AAD/AAD/AAD/AAD/AAD/AADnAADqAADsAADuAADvAADyAAD0AQHvFRZkGxw5Gxw5Gxw5Ghs+AQH0AAD/AAD/AAD/AAD/AAD/AAD/AADpAADsAADuAADwAADyAAD0AAD1AAD3AAD5BwfKCAnACQq6AAD+AAD/AAD/AAD/AAD/AAD/AAD/AAD/AADsAADuAADwAADyAAD0AAD2AAD4AAD5AAD7AAD8AAD9AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AADtAADwAADzAAD0AAD2AAD4AAD5AAD6AAD9AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+",
+        "threshold" : 90.0,
+        "ignoreIfNotFound" : false
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Select.ab?civilizatiotion={{player2}}"
+      } ],
+      "groupName" : "Group",
+      "numberOfIterations" : "1",
+      "turnOn" : true
+    }, {
+      "type" : "BrowserAction",
+      "actionBootType" : "RUN_EXISTING_SCHEMA",
+      "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - fight and end.ab"
+    } ],
+    "groupName" : "Grupa",
+    "numberOfIterations" : "1",
+    "turnOn" : true
+  },
+  "localSettings" : {
+    "stopActionsKeys" : [ ],
+    "runActionsKeys" : [ ],
+    "endpointName" : ""
+  },
+  "orgFile" : null,
+  "applicationVersion" : "1.1.1"
+}

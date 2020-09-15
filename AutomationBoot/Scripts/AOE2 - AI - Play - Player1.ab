@@ -1,0 +1,198 @@
+{
+  "schemaGroupSerialized" : {
+    "type" : "SchemaGroup",
+    "actionList" : [ {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Aztecs"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Berbers"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Britons"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Bulgarians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Burmese"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Byzantines"
+      } ],
+      "groupName" : "Grupa",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Celts"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Chinese"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Cumans"
+      } ],
+      "groupName" : "Group",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Ethiopians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Franks"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Goths"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Huns"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Incas"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Indians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Italians"
+      } ],
+      "groupName" : "Grupa",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Japanese"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Khmer"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Koreans"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Lithuanians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Magyars"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Malay"
+      } ],
+      "groupName" : "Grupa",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Malians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Mayans"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Mongols"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Persians"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Portuguese"
+      } ],
+      "groupName" : "Done",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Saracens"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Slavs"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Spanish"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Tatars"
+      } ],
+      "groupName" : "Group",
+      "numberOfIterations" : "1",
+      "turnOn" : false
+    }, {
+      "type" : "SchemaGroup",
+      "actionList" : [ {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Teutons"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Turks"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Vietnamese"
+      }, {
+        "type" : "BrowserAction",
+        "actionBootType" : "RUN_EXISTING_SCHEMA",
+        "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\AOE2 - AI - Play.ab?player1={{player1}}&player2=Vikings"
+      } ],
+      "groupName" : "Grupa",
+      "numberOfIterations" : "1",
+      "turnOn" : true
+    } ],
+    "groupName" : "Grupa",
+    "numberOfIterations" : "1",
+    "turnOn" : true
+  },
+  "localSettings" : {
+    "stopActionsKeys" : [ ],
+    "runActionsKeys" : [ ],
+    "endpointName" : ""
+  },
+  "orgFile" : null,
+  "applicationVersion" : "1.1.0"
+}

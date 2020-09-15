@@ -1,0 +1,40 @@
+{
+  "schemaGroupSerialized" : {
+    "type" : "SchemaGroup",
+    "actionList" : [ {
+      "type" : "MousePointAction",
+      "actionBootType" : "CLICK_LEFT_MOUSE_BUTTON",
+      "point" : "V(484;3)",
+      "image" : null,
+      "threshold" : 90.0,
+      "ignoreIfNotFound" : false
+    }, {
+      "type" : "DelayAction",
+      "actionBootType" : "DELAY",
+      "timeContainer" : {
+        "value" : "200",
+        "type" : "MILLISECONDS"
+      }
+    }, {
+      "type" : "MousePointAction",
+      "actionBootType" : "MOVE_MOUSE",
+      "point" : "(893;68)",
+      "image" : null,
+      "threshold" : 90.0,
+      "ignoreIfNotFound" : false
+    }, {
+      "type" : "BrowserAction",
+      "actionBootType" : "RUN_EXISTING_SCHEMA",
+      "path" : "P:\\Programowanie\\Projekty\\AutomationBoot\\MyExamples\\AOE\\Click civ\\AOE2 - AI - Click {{civilizatiotion}}.ab"
+    } ],
+    "groupName" : "Grupa",
+    "numberOfIterations" : "1"
+  },
+  "localSettings" : {
+    "stopActionsKeys" : [ ],
+    "runActionsKeys" : [ ],
+    "endpointName" : ""
+  },
+  "orgFile" : null,
+  "applicationVersion" : "1.1.0"
+}
