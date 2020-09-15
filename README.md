@@ -64,7 +64,7 @@ Google Sheet was used for data analysis - [Google Sheet](https://docs.google.com
 * Calculated averages for all civilizations.
 * Created tables with Counter civilizations
 
-## Donate me
+## If you like the project, you can donate me - thanks!
 
 * [Buy me a coffee](https://www.buymeacoffee.com/Patres)
 * [Paypal](https://www.paypal.me/Patresssss)
