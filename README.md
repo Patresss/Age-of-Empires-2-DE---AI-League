@@ -14,14 +14,14 @@ Enjoy!
 
 ## Results
 
-![](https://github.com/Patresss/Age-of-Empires-2-DE---AI-League/blob/master/Result/Result.png)
+![](https://github.com/Patresss/Age-of-Empires-2-DE---AI-League/blob/master/Result/Result.png?raw=true)
 
 ### Table
 ![](https://github.com/Patresss/Age-of-Empires-2-DE---AI-League/blob/master/Result/Age%20of%20Empires%202%20DE_%20AI%20League%20-%20Table.png?raw=true)
 
 ### Counter civilizations
 In this case, every civilization has fought every civilization only twice, so I would not take this table too seriously.
-![](https://github.com/Patresss/Age-of-Empires-2-DE---AI-League/blob/master/Result/Age%20of%20Empires%202%20DE_%20AI%20League%20-%20Counter%20civilizations.png)
+![](https://github.com/Patresss/Age-of-Empires-2-DE---AI-League/blob/master/Result/Age%20of%20Empires%202%20DE_%20AI%20League%20-%20Counter%20civilizations.png?raw=true)
 
 ### Data
 
