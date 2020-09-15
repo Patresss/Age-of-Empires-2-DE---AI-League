@@ -55,6 +55,8 @@ If you want to do this:
 * Replace `P:\Programowanie\Projekty\AutomationBoot\MyExamples\AOE\` to your directory with the files
 * Run them using [AutomationBoot](https://github.com/Patresss/AutomationBoot)
 
+Importantly, before starting the simulation, you should set "save an uncompressed copy" on Steam so that OCR can better convert the image to text. Unfortunately I did not do it right away, so there are only games from Koreans in the Uncompressed folder.
+
 ## OCR - images into text
 I described the conversion in my separate project - [Age of Empires - Stats OCR](https://github.com/Patresss/Age-of-Empires---Stats-OCR)
 
